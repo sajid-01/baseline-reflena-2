@@ -1,5 +1,4 @@
 import math
-import numpy as np
 
 from a2a.server.tasks import TaskUpdater
 from a2a.types import Message, TaskState, Part, TextPart
